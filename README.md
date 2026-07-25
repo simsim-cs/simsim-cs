@@ -30,14 +30,7 @@ Here are some ideas to get you started:
 </p>
 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,html,css,pytorch,tensorflow,git,github,linux,vscode,mysql,latex,bash,figma" /> </p> <p align="left"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Transformers-B399D4?style=for-the-badge&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/BERT-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XLM--R-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p> <p align="center"> 🌸 ⋆｡°✩ 🌸</p>
-🚀 Featured Project
-<a href="https://github.com/simsim-cs/simsim-cs"> <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=simsim-cs&repo=simsim-cs&theme=tokyonight" /> </a>
 
-Multilingual Sentiment Classification — Comparing monolingual (BERT, GBERT) and multilingual (XLM-R) encoders on the Multilingual Amazon Reviews Corpus, with a zero-shot English→German transfer condition. Scoped for a clean, reproducible single-seed experiment.
-
-<br clear="left"/>
-
-<p align="center">🌸 ⋆｡°✩ 🌸</p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=simsim-cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsim-cs&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=simsim-cs&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=simsim-cs&theme=react-dark&hide_border=true" width="100%"/> </p> <p align="center">🌸 ⋆｡°✩ 🌸</p>
 💌 Let's Connect
